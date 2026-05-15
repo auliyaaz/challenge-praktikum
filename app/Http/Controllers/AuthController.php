@@ -27,7 +27,6 @@ class AuthController extends Controller
 
         //jika gagal, kembali ke login dengan pesan error
     }
-
     public function logout()
     {
         session()->forget('user');

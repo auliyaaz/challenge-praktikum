@@ -165,42 +165,6 @@
         </div>
      </div>
 
-
-    <!-- Form Tambah Sepatu -->
-    <div class="container mt-5">
-        <h3 class="mb-4">Tambah Sepatu Baru</h3>
-        
-        <div class="mb-3">
-            <label class="form-label">Nama Sepatu</label>
-            <input type="text" class="form-control" placeholder="Masukkan nama sepatu">
-        </div>
-        
-        <div class="mb-3">
-            <label class="form-label">Harga</label>
-            <input type="number" class="form-control" placeholder="Masukkan harga">
-        </div>
-        
-        <div class="mb-3">            
-            <label class="form-label">Stok</label>
-            <input type="number" class="form-control" placeholder="Masukkan stok">
-        </div>
-
-        <div class="mb-3">
-            <label class="form-label">Kategori</label>
-            <form action="">
-                <div>
-                    <select class="form-select">
-                        <option value="">Pilih kategori</option>
-                        <option value="sneakers">Sneakers</option>
-                        <option value="formal">Basket</option>
-                        <option value="sport">Kasual</option>
-                    </select>
-                </div>
-                <button type="submit" class="btn btn-success">Simpan</button>
-            </form>
-        </div>
-    </div>
-
     <!-- Footer -->
     <footer class="bg-dark text-white text-center p-3">@ 2026 Sistem Manajemen Sepatu. All rights reserved.</footer>
     <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script> -->
